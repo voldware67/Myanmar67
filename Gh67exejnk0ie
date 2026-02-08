@@ -33,7 +33,7 @@ local cfg = {
 }
 
 local function tuffmainscript()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/voldware67/JailBrainrot/refs/heads/main/Keysytemjail"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voldware67/Myanmar/refs/heads/main/Gh7e7euehMine"))()
 end
 
 local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
